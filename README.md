@@ -2,6 +2,8 @@
 
 How to use:
 
+```xml
+
 <plugin>
 	<groupId>dev.sachin</groupId>
 	<artifactId>mvn-cp</artifactId>
